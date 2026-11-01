@@ -1,4 +1,8 @@
- drago.start();
+ public class Main {
+
+    public static void main(String[] args) {
+     
+     drago.start();
 
         for (int i = 0; i < 10; i++) {
 
